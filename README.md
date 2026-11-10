@@ -129,9 +129,4 @@ json-server --watch grocery_data.json --port 3000
 ```bash
 newman run SmartGrocery_API.postman_collection.json --env-var "BaseURL=http://localhost:3000"
 ```
-
-# 🔗 Let's Connect with Me <br>
-Interested in my work? Feel free to reach out by email or on LinkedIn <br>
-📧 sumaiyameem056@gmail.com <br>
-📫 [LinkedIn](https://www.linkedin.com/in/sumaiya-meem-28534b2a4/)
-"# Smartgrocery-API-testing" 
+ 
